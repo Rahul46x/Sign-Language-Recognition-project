@@ -1,0 +1,11 @@
+tensorflow==2.15.0
+numpy==1.26.4
+opencv-python==4.10.0.84
+scikit-learn==1.5.1
+h5py==3.11.0
+pyttsx3==2.98
+pillow==10.4.0
+matplotlib==3.9.1
+
+# GPU SUPPORT
+nvidia-cudnn-cu11==8.6.0.163
